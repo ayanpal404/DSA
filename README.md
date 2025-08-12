@@ -37,11 +37,5 @@ DSA/
 - **Language:** C++
 - **Version Control:** Git & GitHub
 
-<!-- ---
-
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
---- -->
 
 💡 *This repository serves as my personal learning journal for improving problem-solving skills and preparing for coding interviews.*
